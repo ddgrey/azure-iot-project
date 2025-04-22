@@ -3,7 +3,7 @@ This project highlights the potential of Industrial IoT (IIoT) through Azure IoT
 
 The original diagram below outlines the IIoT Architecture, breaking it down into multiple layers that describe how data is transmitted, processed, and secured combining industries 3.0 and 4.0.
 
-[**PDF Educational IIoT Architecture Diagram**](./azure-iot-project/Industrial%20IoT%20(IIoT)%20Architecture.pdf)
+[**PDF Educational IIoT Architecture Diagram**](./Industrial%20IoT%20(IIoT)%20Architecture.pdf)
 
 **Project covers key Industrial IoT (IIoT) layers, including**:
 * Perception Layer (excluding actuators and PLCs)
@@ -50,7 +50,7 @@ The original diagram below outlines the IIoT Architecture, breaking it down into
     <img src="https://drive.google.com/uc?export=view&id=1QGvbcIgwhUwHezgaPoxMn51jf-6zyNjW" width="700">
   </p>
   
-  [**JPEG Diagram**](./azure-iot-project/MQTT%20Essentials.jpg)
+  [**JPEG Diagram**](./MQTT%20Essentials.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ The original diagram below outlines the IIoT Architecture, breaking it down into
 
   The certificate was obtained from the official [DigiCert website](https://www.digicert.com/kb/digicert-root) and is stored locally on the microcontroller.
 
-  **The approach is implemented in the file:** [**picow_mqtt_iothub.py**](./azure-iot-project/picow_mqtt_iothub.py)
+  **The approach is implemented in the file:** [**picow_mqtt_iothub.py**](./picow_mqtt_iothub.py)
 
 ---
 
@@ -109,7 +109,7 @@ The original diagram below outlines the IIoT Architecture, breaking it down into
     <img src="https://drive.google.com/uc?export=view&id=1QAHZRGCM9-nTsJXBONsx-pWqIjll8MV7" width="500">
   </p>
   
-  [**JPEG Diagram**](./azure-iot-project/Azure%20IoT%20Edge.jpg)
+  [**JPEG Diagram**](./Azure%20IoT%20Edge.jpg)
 
   **Concise and Informative Overview:**
   
