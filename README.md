@@ -97,7 +97,7 @@ The original diagram below outlines the IIoT Architecture, breaking it down into
       <img src="https://drive.google.com/uc?export=view&id=1fzJu8HpqHkwJ7gNqSADGvrOtWbs-ebvi" alt="Thermistor Data" width="400">
     </p>
   
-    **This work is also provided in the file:** [**picow_mqtt_iothub.py**](./azure-iot-project/retrieval_and_visualization.ipynb)
+    **This work is also provided in the file:** [**picow_mqtt_iothub.py**](./retrieval_and_visualization.ipynb)
 
 ---
 
